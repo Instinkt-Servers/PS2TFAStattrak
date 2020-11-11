@@ -1,3 +1,7 @@
+--[[
+This Script is made by Instinkt https://steamcommunity.com/id/InstinktServers and is under GPL-3.0 License.
+--]]
+
 resource.AddFile("materials/mat_jack_job_gradient.vmt")
 resource.AddFile("materials/tex_jack_job_gradient.vtf")
 resource.AddFile("materials/mat_jack_job_modul.vmt")
