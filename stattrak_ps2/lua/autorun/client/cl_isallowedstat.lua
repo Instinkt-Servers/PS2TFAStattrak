@@ -1,3 +1,7 @@
+--[[
+This Script is made by Instinkt https://steamcommunity.com/id/InstinktServers and is under GPL-3.0 License.
+--]]
+
 hook.Add("HUDPaint", "dont.load.too.early55", function()
     timer.Create("can.playerviewStat", 2, 0, function()
         if LocalPlayer():GetNWBool('staktrak_enabled', false) == true then
